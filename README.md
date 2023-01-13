@@ -6,6 +6,7 @@ The purpose of this analysis is to dissect whether there is a bias in Vine (paid
 ## Results
 The initial table for a count of all the reviews, and more importantly their Vine status, was initially over 900,000 rows.
 ![vine_table](vine_table.png)
+
 After filtering for reviews that were had at least 20 votes and were voted at least 50% helpful, I was able to perform a comparison of Vine and non-Vine reviews.
 
 ### Vine reviews
